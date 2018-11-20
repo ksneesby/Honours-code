@@ -1,0 +1,1 @@
+This folder contains scripts written by Jesse Greenslade. Functions from "regrid_swaths" were used in my scripts to read in the OMI HCHO data and to plot the pcolormesh maps.
